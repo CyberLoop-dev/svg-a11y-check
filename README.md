@@ -48,7 +48,12 @@ Run `python main.py --help` to see all supported options.
 ## :file_folder: Folder Structure
 
 ```text
-svg-a11y-check/\n├── main.py\n├── requirements.txt\n├── tests/test_core.py\n├── examples/sample.svg\n└── assets/illustration.svg
+svg-a11y-check/
+├── main.py
+├── requirements.txt
+├── tests/test_core.py
+├── examples/sample.svg
+└── assets/illustration.svg
 ```
 
 ## :world_map: Roadmap
